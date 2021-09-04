@@ -52,4 +52,29 @@ from manure; and that maggots (which we now know are the
 larvae of flies) could arise from decaying corpses.
 Physician Francesco Redi set out in 1668 to demonstrate 
 that maggots did not arise spontaneously. Redi filled two 
-jars with decaying meat. The first was left unsealed, allowing
+jars with decaying meat. The first was left unsealed, allowing flies to lay eggs on the meat, which developed into larvae. 
+The second jar was sealed, and because the flies could not get 
+inside, no maggots appeared. Still, Redi’s antagonists were 
+not convinced; they claimed that fresh air was needed for 
+spontaneous generation. So Redi set up a second experiment, 
+in which he covered a jar with a fine net instead of sealing it. 
+No larvae appeared in the gauze-covered jar, even though air 
+was present.
+Redi’s results were a serious blow to the long-held belief 
+that large forms of life could arise from nonlife. However, 
+many scientists still believed that small organisms, such as van 
+Leeuwenhoek’s “animalcules,” were simple enough to generate 
+from nonliving materials.
+The case for spontaneous generation of microorganisms 
+seemed to be strengthened in 1745, when John Needham found 
+that even after he heated chicken broth and corn broth before 
+pouring them into covered flasks, the cooled solutions were 
+soon teeming with microorganisms. Needham claimed that 
+microbes developed spontaneously from the fluids. Twenty 
+years later, Lazzaro Spallanzani suggested that microorganisms 
+from the air probably entered Needham’s solutions after they 
+were boiled. Spallanzani showed that nutrient fluids heated 
+after being sealed in a flask did not develop microbial growth. 
+Needham responded by claiming the “vital force” necessary for 
+spontaneous generation had been destroyed by the heat and 
+was kept out of the flasks by the seals.
